@@ -1,1 +1,5 @@
 # Galagunk
+
+With this game I really focused on making the background look like it was moving. I got good practice with making my own transparent background pixel art using open source online tools. I made some text and could create a  variable to store high score values in, but then I would get into buttons and menus and I am not ready for more buttons quite yet. This project has also made me respect Galaga even more as now I can relate to at least a small amount of the obsticles their team faced when creating their game. I thought about animations for the enemies and if I did implement enemy shooting, self destruction would then lead to the disapearence of one of the ships on the bottom left. I could also change point values for destroying different enemies. 
+
+I look forward to updating this game!

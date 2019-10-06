@@ -1,3 +1,8 @@
+"""
+Worked on this code first and saved it seperately as I had a hard time getting this working how I wanted it to.
+"""
+
+
 import sys, logging, os, random, math, open_color, arcade
 
 SCREEN_WIDTH = 800
