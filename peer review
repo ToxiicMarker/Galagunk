@@ -1,0 +1,37 @@
+Name: Caitlin Morton
+Date: 10 - 19 - 19
+Project: space shooter
+Peer's repository:  https://github.com/ToxiicMarker/Galagunk.git
+
+
+
+What is something you learned by reviewing your peer's project?
+I leanred how they were able to add copies of the same sprite to appear like lives and how to get text on screen.
+ 
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+I wanted to put text on my screen, but couldn't remebmer how. Looking at their code on lines 158-161 shows me the correct code.
+ 
+
+What suggestions would you have for your peer to improve his/her code?
+I can't make suggestions for improvement when theirs was more complicated than my own. I guess I chose to lower the ammount of shots it takes to kill an enemy because I didn't like how long it took, but that's really a personal choice.
+ 
+
+What could have been clearer or better commented?
+It was commented fine, I could understand the functionality of all the code they added.
+ 
+
+Was there anything in the code that was confusing to you? If so, what?
+on line 107, their enemy x quardinate had "120 * (i+1) + 40." I had no idea what that changed about the quardinate.
+ 
+
+Does the repository contain an appropriate LICENSE?
+Yes.
+ 
+
+What is something he/she could add to the README.md to make it more descriptive?
+Perhaps explaining the specifics of the stars file and what was used to make it run.
+ 
+
+Pay a compliment to your peer based on the quality of his/her code.
+You did a lot of work to make this really look like a galaga-esque game. I liked the extra sprites in the corners that looked like extra lives and the animation in the background.
